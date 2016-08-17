@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "adminUsername": {
-            "value": null
+            "value": "x-admin"
         },
         "dnsNameForPublicIP": {
-            "value": null
+            "value": "dapolproxytest"
         }
     }
 }
